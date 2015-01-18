@@ -1,0 +1,5 @@
+Andi	1000
+MariaSux	900
+Annie	800
+Andi	700
+Kevin	574

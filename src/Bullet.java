@@ -1,8 +1,7 @@
 /*
  * Program: Y-Type
- * Name: Austin Du and Maria Kang
+ * Name: Maria Kang and Austin Du
  * Date: June 12, 2014
- * Teacher: Mrs. S
  * Description: Bullet  class
  */
 
